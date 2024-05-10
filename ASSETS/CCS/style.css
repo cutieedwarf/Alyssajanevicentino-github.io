@@ -199,3 +199,11 @@ section {
     border-color: #F2B03B !important;
     color: #F2B03B;
  }
+@media screen and (max-width:767px){
+    section{
+        padding: 60px 20px;
+    }
+    card{
+        margin-bottom: 20px;
+    }
+}
